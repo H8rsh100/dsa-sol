@@ -13,6 +13,8 @@ Platform: **LeetCode**
 |-----|---------|------------|-------|
 | 1 | Two Sum | Easy | Arrays |
 | 1 | Reverse Linked List | Easy | Linked Lists |
+| 2 | Best Time to Buy and Sell Stock | Easy | Arrays |
+| 2 | Contains Duplicate | Easy | Arrays |
 
 ## Goals
 - Build problem-solving consistency
