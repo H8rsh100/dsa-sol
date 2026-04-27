@@ -1,0 +1,20 @@
+# DSA Solutions
+
+My personal repository of Data Structures & Algorithms solutions.  
+Language: **Java**  
+Platform: **LeetCode**
+
+## Structure
+- Each folder = a topic (arrays, linked-lists, trees, etc.)
+- Each file = one problem with explanation in comments
+
+## Progress
+| Day | Problem | Difficulty | Topic |
+|-----|---------|------------|-------|
+| 1 | Two Sum | Easy | Arrays |
+| 1 | Reverse Linked List | Easy | Linked Lists |
+
+## Goals
+- Build problem-solving consistency
+- Cover all major DSA topics
+- Document thought process for every solution
