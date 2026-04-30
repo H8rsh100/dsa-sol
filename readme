@@ -17,6 +17,8 @@ Platform: **LeetCode**
 | 2 | Contains Duplicate | Easy | Arrays |
 | 3 | Maximum Subarray | Easy | Arrays |
 | 3 | Valid Anagram | Easy | Strings |
+| 4 | Longest Common Prefix | Easy | Strings |
+| 4 | Max Average Subarray I | Easy | Sliding Window |
 
 ## Goals
 - Build problem-solving consistency
