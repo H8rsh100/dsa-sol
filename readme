@@ -19,6 +19,8 @@ Platform: **LeetCode**
 | 3 | Valid Anagram | Easy | Strings |
 | 4 | Longest Common Prefix | Easy | Strings |
 | 4 | Max Average Subarray I | Easy | Sliding Window |
+| 5 | Minimum Size Subarray Sum | Medium | Sliding Window |
+| 5 | Valid Palindrome | Easy | Two Pointers |
 
 ## Goals
 - Build problem-solving consistency
