@@ -21,6 +21,8 @@ Platform: **LeetCode**
 | 4 | Max Average Subarray I | Easy | Sliding Window |
 | 5 | Minimum Size Subarray Sum | Medium | Sliding Window |
 | 5 | Valid Palindrome | Easy | Two Pointers |
+| 6 | 3Sum | Medium | Two Pointers |
+| 6 | Linked List Cycle | Easy | Linked Lists |
 
 ## Goals
 - Build problem-solving consistency
