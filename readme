@@ -25,6 +25,9 @@ Platform: **LeetCode**
 | 6 | Linked List Cycle | Easy | Linked Lists |
 | 7 | Merge Two Sorted Lists | Easy | Linked Lists |
 | 7 | Binary Search | Easy | Binary Search |
+| 8 | Search Insert Position | Easy | Binary Search |
+| 8 | Maximum Depth of Binary Tree | Easy | Trees |
+
 
 ## Goals
 - Build problem-solving consistency
