@@ -23,6 +23,8 @@ Platform: **LeetCode**
 | 5 | Valid Palindrome | Easy | Two Pointers |
 | 6 | 3Sum | Medium | Two Pointers |
 | 6 | Linked List Cycle | Easy | Linked Lists |
+| 7 | Merge Two Sorted Lists | Easy | Linked Lists |
+| 7 | Binary Search | Easy | Binary Search |
 
 ## Goals
 - Build problem-solving consistency
