@@ -33,7 +33,8 @@ Platform: **LeetCode**
 | 10 | Climbing Stairs | Easy | Dynamic Programming |
 | 11 | House Robber | Medium | Dynamic Programming |
 | 11 | Coin Change | Medium | Dynamic Programming |
-
+| 12 | Flood Fill | Easy | Graphs |
+| 12 | Number of Islands | Medium | Graphs |
 
 ## Goals
 - Build problem-solving consistency
