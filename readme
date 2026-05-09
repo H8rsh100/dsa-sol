@@ -37,6 +37,8 @@ Platform: **LeetCode**
 | 12 | Number of Islands | Medium | Graphs |
 | 13 | Clone Graph | Medium | Graphs |
 | 13 | Valid Parentheses | Easy | Stacks |
+| 14 | Min Stack | Medium | Stacks |
+| 14 | Kth Largest Element | Medium | Heaps |
 
 ## Goals
 - Build problem-solving consistency
