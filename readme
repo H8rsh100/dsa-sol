@@ -35,6 +35,8 @@ Platform: **LeetCode**
 | 11 | Coin Change | Medium | Dynamic Programming |
 | 12 | Flood Fill | Easy | Graphs |
 | 12 | Number of Islands | Medium | Graphs |
+| 13 | Clone Graph | Medium | Graphs |
+| 13 | Valid Parentheses | Easy | Stacks |
 
 ## Goals
 - Build problem-solving consistency
