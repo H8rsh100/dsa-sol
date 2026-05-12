@@ -41,6 +41,8 @@ Platform: **LeetCode**
 | 14 | Kth Largest Element | Medium | Heaps |
 | 15 | Top K Frequent Elements | Medium | Heaps |
 | 15 | Subsets | Medium | Backtracking |
+| 16 | Permutations | Medium | Backtracking |
+| 16 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
 
 ## Goals
 - Build problem-solving consistency
