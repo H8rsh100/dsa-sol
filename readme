@@ -43,6 +43,9 @@ Platform: **LeetCode**
 | 15 | Subsets | Medium | Backtracking |
 | 16 | Permutations | Medium | Backtracking |
 | 16 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
+| 17 | Search in Rotated Sorted Array | Medium | Binary Search |
+| 17 | Longest Increasing Subsequence | Medium | Dynamic Programming |
+
 
 ## Goals
 - Build problem-solving consistency
