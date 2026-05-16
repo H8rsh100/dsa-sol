@@ -45,6 +45,10 @@ Platform: **LeetCode**
 | 16 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
 | 17 | Search in Rotated Sorted Array | Medium | Binary Search |
 | 17 | Longest Increasing Subsequence | Medium | Dynamic Programming |
+| 18 | Unique Paths | Medium | Dynamic Programming |
+| 18 | Course Schedule | Medium | Graphs |
+| 19 | Number of Connected Components | Medium | Graphs |
+| 19 | Word Break | Medium | Dynamic Programming |
 
 
 ## Goals
