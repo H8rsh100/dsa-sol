@@ -51,7 +51,8 @@ Platform: **LeetCode**
 | 19 | Word Break | Medium | Dynamic Programming |
 | 20 | Implement Trie | Medium | Tries |
 | 20 | Jump Game | Medium | Greedy |
-
+| 21 | Jump Game II | Medium | Greedy |
+| 21 | Merge Intervals | Medium | Intervals |
 
 ## Goals
 - Build problem-solving consistency
