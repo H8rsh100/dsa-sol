@@ -53,6 +53,8 @@ Platform: **LeetCode**
 | 20 | Jump Game | Medium | Greedy |
 | 21 | Jump Game II | Medium | Greedy |
 | 21 | Merge Intervals | Medium | Intervals |
+| 22 | Non-overlapping Intervals | Medium | Intervals |
+| 22 | Single Number | Easy | Bit Manipulation |
 
 ## Goals
 - Build problem-solving consistency
