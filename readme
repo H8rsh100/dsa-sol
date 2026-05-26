@@ -59,6 +59,10 @@ Platform: **LeetCode**
 | 23 | Reverse Integer | Medium | Math |
 | 23 | Number of 1 Bits | Easy | Bit Manipulation |
 | 23 | Reverse Integer | Medium | Math |
+| 24 | Pow(x, n) | Medium | Math |
+| 24 | Trapping Rain Water | Hard | Two Pointers |
+| 25 | Longest Palindromic Substring | Medium | Strings |
+| 25 | Edit Distance | Hard | Dynamic Programming |
 
 ## Goals
 - Build problem-solving consistency
