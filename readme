@@ -63,6 +63,8 @@ Platform: **LeetCode**
 | 24 | Trapping Rain Water | Hard | Two Pointers |
 | 25 | Longest Palindromic Substring | Medium | Strings |
 | 25 | Edit Distance | Hard | Dynamic Programming |
+| 26 | Pacific Atlantic Water Flow | Medium | Graphs |
+| 26 | Longest Common Subsequence | Medium | Dynamic Programming |
 
 ## Goals
 - Build problem-solving consistency
