@@ -65,6 +65,8 @@ Platform: **LeetCode**
 | 25 | Edit Distance | Hard | Dynamic Programming |
 | 26 | Pacific Atlantic Water Flow | Medium | Graphs |
 | 26 | Longest Common Subsequence | Medium | Dynamic Programming |
+| 27 | Word Ladder | Hard | Graphs |
+| 27 | Word Search II | Hard | Tries |
 
 ## Goals
 - Build problem-solving consistency
