@@ -67,6 +67,8 @@ Platform: **LeetCode**
 | 26 | Longest Common Subsequence | Medium | Dynamic Programming |
 | 27 | Word Ladder | Hard | Graphs |
 | 27 | Word Search II | Hard | Tries |
+| 28 | Burst Balloons | Hard | Dynamic Programming |
+| 28 | Alien Dictionary | Hard | Graphs |
 
 ## Goals
 - Build problem-solving consistency
