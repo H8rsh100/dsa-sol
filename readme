@@ -69,6 +69,8 @@ Platform: **LeetCode**
 | 27 | Word Search II | Hard | Tries |
 | 28 | Burst Balloons | Hard | Dynamic Programming |
 | 28 | Alien Dictionary | Hard | Graphs |
+| 29 | Regular Expression Matching | Hard | Dynamic Programming |
+| 29 | Largest Rectangle in Histogram | Hard | Stacks |
 
 ## Goals
 - Build problem-solving consistency
