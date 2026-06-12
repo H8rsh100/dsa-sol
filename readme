@@ -75,6 +75,8 @@ Platform: **LeetCode**
 | 30 | Sliding Window Maximum | Hard | Stacks |
 | 31 | Network Delay Time (Dijkstra) | Medium | Graphs |
 | 31 | Min Cost Connect All Points (Prim's) | Medium | Graphs |
+| 32 | Cheapest Flights K Stops (Bellman-Ford) | Medium | Graphs |
+| 32 | Course Schedule II (Topological Sort BFS) | Medium | Graphs |
 
 ## Goals
 - Build problem-solving consistency
